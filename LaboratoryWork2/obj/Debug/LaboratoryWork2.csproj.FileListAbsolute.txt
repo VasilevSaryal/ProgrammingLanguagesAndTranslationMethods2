@@ -1,0 +1,10 @@
+C:\Users\Sarya\source\repos\LaboratoryWork2\LaboratoryWork2\bin\Debug\LaboratoryWork2.exe.config
+C:\Users\Sarya\source\repos\LaboratoryWork2\LaboratoryWork2\bin\Debug\LaboratoryWork2.exe
+C:\Users\Sarya\source\repos\LaboratoryWork2\LaboratoryWork2\bin\Debug\LaboratoryWork2.pdb
+C:\Users\Sarya\source\repos\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.csprojAssemblyReference.cache
+C:\Users\Sarya\source\repos\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.Form1.resources
+C:\Users\Sarya\source\repos\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.Properties.Resources.resources
+C:\Users\Sarya\source\repos\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.csproj.GenerateResource.cache
+C:\Users\Sarya\source\repos\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.csproj.CoreCompileInputs.cache
+C:\Users\Sarya\source\repos\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.exe
+C:\Users\Sarya\source\repos\LaboratoryWork2\LaboratoryWork2\obj\Debug\LaboratoryWork2.pdb
